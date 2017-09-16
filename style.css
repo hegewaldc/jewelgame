@@ -1,0 +1,15 @@
+h1{
+	color: blue;
+	font-size: 40px;
+	width: 305px;
+    border: 12px;
+    margin: 10px;	
+}
+
+p{
+	color: black;
+	font-size: 20px;
+	width: 300px;
+    border: 12px;
+    margin: 10px;  	
+}
